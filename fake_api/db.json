@@ -1,0 +1,228 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Brown paperbag waist pencil skirt",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-4.jpg",
+      "category": "Women",
+      "price": 60,
+      "brand": "nike",
+      "color": "brown",
+      "size": "s",
+      "status":"new"
+    },
+    {
+      "id": 2,
+      "name": "Dark yellow lace cut out swing dress",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-5.jpg",
+      "category": "Dresses",
+      "price": 84,
+      "brand": "next",
+      "color": "yellow",
+      "size": "xs",
+      "status":null
+    },
+    {
+      "id": 3,
+      "name": "Khaki utility boiler jumpsuit",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-6.jpg",
+      "category": "Jackets",
+      "price": 120,
+      "brand": "geox",
+      "color": "khaki",
+      "size": "m",
+      "status":"out of stock"
+    },
+    {
+      "id": 4,
+      "name": "Blue utility pinafore denim dress",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-7.jpg",
+      "category": "Jeans",
+      "price": 76,
+      "brand": "ugg",
+      "color": "blue",
+      "size": "l",
+      "status":null
+    },
+    {
+      "id": 5,
+      "name": "Beige knitted elastic runner shoes",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-8.jpg",
+      "category": "Shoes",
+      "price": 84,
+      "brand": "new balance",
+      "color": "beige",
+      "size": "s",
+      "status":"new"
+    },
+    {
+      "id": 6,
+      "name": "Orange saddle lock front chain cross",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-9.jpg",
+      "category": "Bags",
+      "price": 84,
+      "brand": "F&F",
+      "color": "orange",
+      "size": "s",
+      "status":null
+    },
+    {
+      "id": 7,
+      "name": "Light brown studded Wide fit wedges",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-10.jpg",
+      "category": "Shoes",
+      "price": 110,
+      "brand": "River Island",
+      "color": "brown",
+      "size": "m",
+      "status":"top"
+    },
+    {
+      "id": 8,
+      "name": "Yellow button front tea top",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-11.jpg",
+      "category": "Jumpers",
+      "price": 56,
+      "brand": "geox",
+      "color": "yellow",
+      "size": "xl",
+      "status":null
+    },
+    {
+      "id": 9,
+      "name": "Black soft RI weekend travel bag",
+      "image": "https://portotheme.com/html/molla/assets/images/products/product-12.jpg",
+      "category": "Bags",
+      "price": 68,
+      "brand": "F&F",
+      "color": "black",
+      "size": "l",
+      "status":null
+    }
+  ],
+  "filter": {
+    "category":[
+      {
+        "id":1,
+        "name":"Dresses"
+      },
+      {
+        "id":2,
+        "name":"T-shirt"
+      },
+      {
+        "id":3,
+        "name":"Bags"
+      },
+      {
+        "id":4,
+        "name":"Jackets"
+      },
+      {
+        "id":5,
+        "name":"Shoes"
+      },
+      {
+        "id":6,
+        "name":"Jumpers"
+      },
+      {
+        "id":7,
+        "name":"Jeans"
+      },
+      {
+        "id":8,
+        "name":"Sportwear"
+      }
+    ],
+    "size":[
+      {
+        "id":1,
+        "name":"xs"
+      },
+      {
+        "id":2,
+        "name":"s"
+      },
+      {
+        "id":3,
+        "name":"m"
+      },
+      {
+        "id":4,
+        "name":"l"
+      },
+      {
+        "id":5,
+        "name":"xl"
+      },
+      {
+        "id":6,
+        "name":"xxl"
+      }
+    ],
+    "colour":[
+      {
+        "id":1,
+        "name":"brown"
+      },
+      {
+        "id":2,
+        "name":"yellow"
+      },
+      {
+        "id":3,
+        "name":"khaki"
+      },
+      {
+        "id":4,
+        "name":"blue"
+      },
+      {
+        "id":5,
+        "name":"beige"
+      },
+      {
+        "id":6,
+        "name":"orange"
+      },
+      {
+        "id":7,
+        "name":"black"
+      }
+    ],
+    "brand":[
+      {
+        "id":1,
+        "name":"next"
+      },
+      {
+        "id":2,
+        "name":"River Island"
+      },
+      {
+        "id":3,
+        "name":"geox"
+      },
+      {
+        "id":4,
+        "name":"new balance"
+      },
+      {
+        "id":5,
+        "name":"ugg"
+      },
+      {
+        "id":6,
+        "name":"F&F"
+      },
+      {
+        "id":7,
+        "name":"nike"
+      }
+    ]
+},
+  "profile": {
+    "name": "typicode"
+  }
+}
